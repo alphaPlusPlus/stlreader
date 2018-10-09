@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLReader", "STLReader\STLReader.csproj", "{56524EC4-75F9-41BE-AC5E-106A5C0C4CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56524EC4-75F9-41BE-AC5E-106A5C0C4CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56524EC4-75F9-41BE-AC5E-106A5C0C4CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56524EC4-75F9-41BE-AC5E-106A5C0C4CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56524EC4-75F9-41BE-AC5E-106A5C0C4CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A613422-586F-428D-89F3-1CCE2C3B30D8}
+	EndGlobalSection
+EndGlobal
